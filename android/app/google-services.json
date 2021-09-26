@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "555662521888",
+    "project_id": "myloginapplication-f2a2d",
+    "storage_bucket": "myloginapplication-f2a2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555662521888:android:0c9ccc0e9f283c2f42ee45",
+        "android_client_info": {
+          "package_name": "com.gov.mpt.flutter_login_register"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555662521888-c3t9nlkfv47arfdb2onol2hokj7i9dk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9l0-gb9xhddXQBFmNhwPn_ddUsM_TKs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555662521888-c3t9nlkfv47arfdb2onol2hokj7i9dk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
